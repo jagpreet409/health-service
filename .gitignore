@@ -85,3 +85,8 @@ Thumbs.db
 # AWS credentials
 .aws/
 /patient-service-db/
+/infrastructure/cdk.out/cdk.out
+/infrastructure/target/classes/com/pm/stack/LocalStack.class
+/infrastructure/cdk.out/LocalStack.template.json
+/infrastructure/cdk.out/manifest.json
+/infrastructure/cdk.out/tree.json
