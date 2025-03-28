@@ -1,0 +1,13 @@
+### POST request to create patient
+POST http://YOUR_URL_LOCALSTASH:4004/api/patients
+Content-Type: application/json
+Authorization: Bearer {{token}}
+
+ {
+    "name": "Jagpreet Singh with Kafka",
+    "email": "demo12@gmail.com",
+    "address": "Lane Cove north",
+    "dateOfBirth": "1997-06-08",
+    "registeredDate": "2025-03-26"
+}
+###
